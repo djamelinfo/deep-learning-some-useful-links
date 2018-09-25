@@ -3,25 +3,15 @@
 ## Table of Contents
 
 * **[Free Online Books](#free-online-books)**  
-
 * **[Courses](#courses)**  
-
 * **[Videos and Lectures](#videos-and-lectures)**  
-
 * **[Papers](#papers)**  
-
 * **[Tutorials](#tutorials)**  
-
 * **[Researchers](#researchers)**  
-
 * **[WebSites](#websites)**  
-
 * **[Datasets](#datasets)**  
-
 * **[Frameworks](#frameworks)**  
-
 * **[Miscellaneous](#miscellaneous)**  
-
 * **[Contributing](#contributing)**  
 
 
